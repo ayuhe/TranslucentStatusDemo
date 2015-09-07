@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- 签到 -->
+    <color name="view_bg">#ff25a7cd</color>
+
+    <!-- 水平分割线 -->
+    <color name="canlendar_text_color">#323232</color>
+
+    <!--主页色调（前四个关键）-->
+    <color name="f_tab_check">#ffaaaaaa</color>
+    <color name="f_tab_uncheck">#323232</color>
+    <color name="f_head_menu">#323232</color>
+    <color name="f_dark_blue">#13b7d2</color>
+    <color name="f_light_blue_1">#a05a9aa8</color>
+    <color name="f_main_bg">#d9d9d9</color>
+    <color name="f_white">#ffffff</color>
+    <color name="f_default_textColor">#6d6e76</color>
+    <color name="f_edittext_border_focus_color">#5a9aa8</color>
+    <color name="f_spinner_divider">#e1e1e1</color>
+    <color name="f_progressbar_bg">#808085</color>
+    <color name="f_progress">#b5d3d9</color>
+    <color name="f_list_divider">#c2c0c0</color>
+
+
+    <!--FlatUI-->
+
+    <!-- sand -->
+    <color name="sand_darker">#ad843d</color>
+    <color name="sand_dark">#d4a14a</color>
+    <color name="sand_primary">#fbbf58</color>
+    <color name="sand_light">#fae8c8</color>
+    <integer-array name="sand">
+        <item>@color/sand_darker</item>
+        <item>@color/sand_dark</item>
+        <item>@color/sand_primary</item>
+        <item>@color/sand_light</item>
+    </integer-array>
+
+    <!-- orange -->
+    <color name="orange_darker">#994628</color>
+    <color name="orange_dark">#cc5d35</color>
+    <color name="orange_primary">#ff7342</color>
+    <color name="orange_light">#ffbfa8</color>
+    <integer-array name="orange">
+        <item>@color/orange_darker</item>
+        <item>@color/orange_dark</item>
+        <item>@color/orange_primary</item>
+        <item>@color/orange_light</item>
+    </integer-array>
+
+    <!-- candy -->
+    <color name="candy_darker">#80363c</color>
+    <color name="candy_dark">#bf505a</color>
+    <color name="candy_primary">#f56773</color>
+    <color name="candy_light">#f5c4c8</color>
+    <integer-array name="candy">
+        <item>@color/candy_darker</item>
+        <item>@color/candy_dark</item>
+        <item>@color/candy_primary</item>
+        <item>@color/candy_light</item>
+    </integer-array>
+
+    <!-- blossom -->
+    <color name="blossom_darker">#8f5e76</color>
+    <color name="blossom_dark">#b57795</color>
+    <color name="blossom_primary">#e898bf</color>
+    <color name="blossom_light">#e8d1dc</color>
+    <integer-array name="blossom">
+        <item>@color/blossom_darker</item>
+        <item>@color/blossom_dark</item>
+        <item>@color/blossom_primary</item>
+        <item>@color/blossom_light</item>
+    </integer-array>
+
+    <!-- grape -->
+    <color name="grape_darker">#362f4a</color>
+    <color name="grape_dark">#4f456b</color>
+    <color name="grape_primary">#695b8e</color>
+    <color name="grape_light">#b1a2db</color>
+    <integer-array name="grape">
+        <item>@color/grape_darker</item>
+        <item>@color/grape_dark</item>
+        <item>@color/grape_primary</item>
+        <item>@color/grape_light</item>
+    </integer-array>
+
+    <!-- deep -->
+    <color name="deep_darker">#232b35</color>
+    <color name="deep_dark">#2d3845</color>
+    <color name="deep_primary">#2d3845</color>
+    <color name="deep_light">#c7dbf4</color>
+    <integer-array name="deep">
+        <item>@color/deep_darker</item>
+        <item>@color/deep_dark</item>
+        <item>@color/deep_primary</item>
+        <item>@color/deep_light</item>
+    </integer-array>
+
+    <!-- sky -->
+    <color name="sky_darker">#0b6978</color>
+    <color name="sky_dark">#0e8b9e</color>
+    <color name="sky_primary">#13b7d2</color>
+    <color name="sky_light">#b9e4eb</color>
+    <integer-array name="sky">
+        <item>@color/sky_darker</item>
+        <item>@color/sky_dark</item>
+        <item>@color/sky_primary</item>
+        <item>@color/sky_light</item>
+    </integer-array>
+
+    <!-- grass -->
+    <color name="grass_darker">#124c38</color>
+    <color name="grass_dark">#1e7d5b</color>
+    <color name="grass_primary">#2ab081</color>
+    <color name="grass_light">#a8e3ce</color>
+    <integer-array name="grass">
+        <item>@color/grass_darker</item>
+        <item>@color/grass_dark</item>
+        <item>@color/grass_primary</item>
+        <item>@color/grass_light</item>
+    </integer-array>
+
+    <!-- dark -->
+    <color name="dark_darker">#050505</color>
+    <color name="dark_dark">#202020</color>
+    <color name="dark_primary">#454545</color>
+    <color name="dark_light">#a3a3a3</color>
+    <integer-array name="dark">
+        <item>@color/dark_darker</item>
+        <item>@color/dark_dark</item>
+        <item>@color/dark_primary</item>
+        <item>@color/dark_light</item>
+    </integer-array>
+
+    <!-- snow -->
+    <color name="snow_darker">#c8c8c8</color>
+    <color name="snow_dark">#dddddd</color>
+    <color name="snow_primary">#e8e8e8</color>
+    <color name="snow_light">#fafafa</color>
+    <integer-array name="snow">
+        <item>@color/snow_darker</item>
+        <item>@color/snow_dark</item>
+        <item>@color/snow_primary</item>
+        <item>@color/snow_light</item>
+    </integer-array>
+
+    <!-- sea -->
+    <color name="sea_darker">#1a3b6c</color>
+    <color name="sea_dark">#1c52a2</color>
+    <color name="sea_primary">#2d72d9</color>
+    <color name="sea_light">#d5e3f7</color>
+    <integer-array name="sea">
+        <item>@color/sea_darker</item>
+        <item>@color/sea_dark</item>
+        <item>@color/sea_primary</item>
+        <item>@color/sea_light</item>
+    </integer-array>
+
+    <!-- blood -->
+    <color name="blood_darker">#732219</color>
+    <color name="blood_dark">#a63124</color>
+    <color name="blood_primary">#d94130</color>
+    <color name="blood_light">#f2b6ae</color>
+    <integer-array name="blood">
+        <item>@color/blood_darker</item>
+        <item>@color/blood_dark</item>
+        <item>@color/blood_primary</item>
+        <item>@color/blood_light</item>
+    </integer-array>
+
+    <!--sweetAlert-->
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+
+    <!--appmsg-->
+    <color name="alert">#CC0000</color>
+    <color name="confirm">#FF8800</color>
+    <color name="info">#669900</color>
+
+
+    <!-- ================== IM ========================-->
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#333333</color>
+    <color name="global_bg">#9000</color>
+    <color name="color_green_01d9ae">#01D9AE</color>
+    <color name="color_blue_0888ff">#0888ff</color>
+    <color name="color_gray_d9d9d9">#d9d9d9</color>
+    <color name="action_bar_tittle_color_555555">#555555</color>
+    <color name="grey_white">#F7F7F7</color>
+    <color name="grey_white_has_alpha">#66FAFAFA</color>
+    <color name="color_network_bar_bg_ee4b62">#ee4b62</color>
+    <color name="color_black_333333">#333333</color>
+    <color name="color_grey_999999">#999999</color>
+    <color name="color_grey_888888">#888888</color>
+    <color name="color_activity_blue_bg">#f7389fff</color>
+    <color name="color_green_00ae8c">#00ae8c</color>
+    <color name="split_line_grey_color_d9d9d9">#D9D9D9</color>
+    <color name="green_4DC0A4">#4DC0A4</color>
+    <color name="gray7">#c5c4c4</color>
+    <color name="GreyWhite">#F7F7F7</color>
+    <color name="color_register_text_normal_1ca086">#1ca086</color>
+    <color name="color_register_text_normal_246b61">#246b61</color>
+    <color name="color_register_text_disable_39b79d">#39b79d</color>
+    <color name="im_list_select_hover">#dbdbdb</color>
+    <color name="color_aaaaaa_content_text">#ffaaaaaa</color>
+    <color name="title_color_01d9ae">#01D9AE</color>
+    <color name="color_b3b3b3">#b3b3b3</color>
+    <color name="color_green_disable">#a2efe0</color>
+    <color name="color_green_00d3a9">#ff00D3A9</color>
+    <color name="color_red_ccfa3c55">#ccfa3c55</color>
+    <color name="color_black_b3000000">#b3000000</color>
+    <color name="color_white_66ffffff">#66ffffff</color>
+    <color name="color_blue_1081ea">#1081ea</color>
+    <color name="color_grey_eaeaea">#eaeaea</color>
+
+    <!-- main bg color -->
+    <color name="g_child_page_bg_color">#FFFFFF</color>
+    <color name="list_bg_color">#FFFFFF</color>
+    <color name="main_bg_color">#FFFFFF</color>
+
+    <!-- session -->
+    <color name="color_message_default_bg">#e9ecf0</color>
+    <color name="input_panel_text_color_757572">#757572</color>
+    <color name="color_gray_cbd0d8">#cbd0d8</color>
+    <color name="help_color">#ff999999</color>
+
+    <!-- image picker -->
+    <color name="color_split_line_d9d9d9">#d9d9d9</color>
+    <color name="color_split_line_cccccc">#cccccc</color>
+
+    <!-- contact -->
+    <color name="contact_list_hover">#d9d9d9</color>
+    <color name="contact_letter_idx_bg">#33000000</color>
+    <color name="contacts_letters_color">#80807c</color>
+    <color name="bussiness_card_gridview_bg">#ECF1F5</color>
+    <color name="press_mask">#33000000</color>
+    <color name="color_grey_ababab">#ababab</color>
+    <color name="color_yellow_796413">#796413</color>
+    <color name="color_yellow_b39729">#b39729</color>
+
+</resources>
